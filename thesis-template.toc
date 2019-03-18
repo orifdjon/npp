@@ -2,7 +2,8 @@
 \contentsline {chapter}{Введение}{3}{chapter*.2}
 \contentsline {chapter}{\numberline {1}Общие сведения}{4}{chapter.1}
 \contentsline {chapter}{\numberline {2}Атомная отрасль}{6}{chapter.2}
-\contentsline {chapter}{Заключение}{7}{chapter*.5}
+\contentsline {section}{\numberline {2.1}Предыстория развития атомной энергетики}{6}{section.2.1}
+\contentsline {chapter}{Заключение}{8}{chapter*.6}
 \select@language {russian}
 \select@language {russian}
 \select@language {russian}
