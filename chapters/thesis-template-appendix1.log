@@ -1,0 +1,21 @@
+This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6840 64-bit) (preloaded format=xelatex 2018.10.19)  1 FEB 2019 07:15
+entering extended mode
+**./thesis-template-appendix1.tex
+(thesis-template-appendix1.tex
+LaTeX2e <2018-04-01> patch level 5
+)
+! Emergency stop.
+<*> ./thesis-template-appendix1.tex
+                                   
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 5 strings out of 427792
+ 139 string characters out of 3154369
+ 63169 words of memory out of 3000000
+ 4106 multiletter control sequences out of 15000+200000
+ 3640 words of font info for 14 fonts, out of 3000000 for 9000
+ 1328 hyphenation exceptions out of 8191
+ 4i,0n,1p,1b,8s stack positions out of 5000i,500n,10000p,200000b,50000s
+No pages of output.
