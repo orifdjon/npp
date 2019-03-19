@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6840 64-bit) (preloaded format=xelatex 2018.10.19)  18 MAR 2019 16:00
+This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6840 64-bit) (preloaded format=xelatex 2018.10.19)  18 MAR 2019 17:09
 entering extended mode
 **./thesis-template.tex
 (thesis-template.tex
@@ -1147,11 +1147,7 @@ Package listingsutf8 Warning: Package loading is aborted because of missing \pd
 f@unescapehex.
 (listingsutf8)                It is provided by pdfTeX >= 1.30.
 
-)) (thesis-template.aux
-
-LaTeX Warning: Label `pic:struct_energy' multiply defined.
-
-)
+)) (thesis-template.aux)
 \openout1 = `thesis-template.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
@@ -1363,20 +1359,19 @@ File: ./img/Spain-energy.jpg Graphic file (type bmp)
 Глава 2.
 File: ./img/world_n_a.png Graphic file (type bmp)
 <./img/world_n_a.png>
-File: ./img/spain_en_history.jpg Graphic file (type bmp)
-<./img/spain_en_history.jpg>
 [6
 
 
-]) [7] (chapters/thesis-template-conclusion.tex) [8
+]
+File: ./img/spain_en_history.jpg Graphic file (type bmp)
+<./img/spain_en_history.jpg>
+) [7] (chapters/thesis-template-conclusion.tex) [8
 
 
 ]
 (chapters/thesis-template-bibl.tex (thesis-template.bbl
-Underfull \hbox (badness 1810) in paragraph at lines 41--46
-[]\TU/TimesNewRoman(1)/m/n/12 В.Э. Вольфенгаген. Категориальная абстрактная маш
-ина. Конспект лекций: введение в
- []
+
+LaTeX Warning: Empty `thebibliography' environment on input line 17.
 
 )) [9
 
@@ -1393,16 +1388,12 @@ Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 54.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 54.
 Package rerunfilecheck Info: File `thesis-template.out' has not changed.
 (rerunfilecheck)             Checksum: 38D3D303819A8A36FF681DF17B46C094.
-
-
-LaTeX Warning: There were multiply-defined labels.
-
  ) 
 Here is how much of TeX's memory you used:
- 39047 strings out of 427792
- 711752 string characters out of 3154369
+ 39032 strings out of 427792
+ 711629 string characters out of 3154369
  816498 words of memory out of 3000000
- 42564 multiletter control sequences out of 15000+200000
+ 42549 multiletter control sequences out of 15000+200000
  537535 words of font info for 67 fonts, out of 3000000 for 9000
  1328 hyphenation exceptions out of 8191
  57i,18n,92p,1206b,529s stack positions out of 5000i,500n,10000p,200000b,50000s
